@@ -1,4 +1,6 @@
 # Royal Wedding Organizer
+![1718626648085679](https://github.com/akshau12a/Wedding-Managment/assets/92288367/b6ab8e2d-633a-48e0-9e4a-06e79ec8d78f)
+
 Royal Wedding Organizer is a comprehensive wedding management platform designed to assist users in planning and organizing weddings with ease and elegance. The website offers a seamless experience from browsing services to finalizing details, ensuring that every aspect of the wedding is covered.
 
 # Project Features
