@@ -1,7 +1,10 @@
 # Royal Wedding Organizer
 
 
-https://github.com/akshau12a/Wedding-Managment/assets/92288367/76a9b2f8-095e-48fe-bbbe-5402626a3781
+
+https://github.com/akshau12a/Wedding-Managment/assets/92288367/23cd7f4c-3f8a-42a9-b5ee-9a72a8eadb0f
+
+
 
 
 
